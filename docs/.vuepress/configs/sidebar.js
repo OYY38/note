@@ -68,5 +68,19 @@ export const sidebar = {
         '/interview/html.md',
       ]
     },
+    {
+      text: 'CSS',
+      collapsible: true,
+      children: [
+        '/interview/css.md',
+      ]
+    },
+    {
+      text: 'JavaScript',
+      collapsible: true,
+      children: [
+        '/interview/js.md',
+      ]
+    },
   ]
 }

@@ -73,6 +73,18 @@ export const navbar = [
           '/interview/html.md',
         ]
       },
+      {
+        text: 'CSS',
+        children: [
+          '/interview/css.md',
+        ]
+      },
+      {
+        text: 'JavaScript',
+        children: [
+          '/interview/js.md',
+        ]
+      },
     ]
   },
 ]
