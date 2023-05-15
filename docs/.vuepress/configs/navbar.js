@@ -61,7 +61,13 @@ export const navbar = [
         children: [
           '/frontend/chrome.md',
         ]
-      }
+      },
+      {
+        text: '打包工具',
+        children: [
+          '/frontend/webpack.md',
+        ]
+      },
     ]
   },
   {

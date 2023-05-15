@@ -58,6 +58,13 @@ export const sidebar = {
       children: [
         '/frontend/chrome.md',
       ]
+    },
+    {
+      text: '打包工具',
+      collapsible: true,
+      children: [
+        '/frontend/webpack.md',
+      ]
     }
   ],
   '/interview/': [
