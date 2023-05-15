@@ -85,6 +85,12 @@ export const navbar = [
           '/interview/js.md',
         ]
       },
+      {
+        text: 'HTTP',
+        children: [
+          '/interview/http.md',
+        ]
+      },
     ]
   },
 ]

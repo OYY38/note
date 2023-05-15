@@ -82,5 +82,12 @@ export const sidebar = {
         '/interview/js.md',
       ]
     },
+    {
+      text: 'HTTP',
+      collapsible: true,
+      children: [
+        '/interview/http.md',
+      ]
+    },
   ]
 }
