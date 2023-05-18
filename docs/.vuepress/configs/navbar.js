@@ -97,6 +97,12 @@ export const navbar = [
           '/interview/http.md',
         ]
       },
+      {
+        text: '框架',
+        children: [
+          '/interview/vue.md',
+        ]
+      },
     ]
   },
 ]

@@ -96,5 +96,12 @@ export const sidebar = {
         '/interview/http.md',
       ]
     },
+    {
+      text: '框架',
+      collapsible: true,
+      children: [
+        '/interview/vue.md',
+      ]
+    },
   ]
 }
